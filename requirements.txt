@@ -1,0 +1,4 @@
+discord.py-self==2.0.0  # Required for Discord bot
+PyYAML==6.0.2           # For YAML parsing
+requests==2.32.3        # For making HTTP requests
+regex==2024.11.6        # Needed if used ydgrasil function (don't remove this unless you remove ydgrasil handler)
